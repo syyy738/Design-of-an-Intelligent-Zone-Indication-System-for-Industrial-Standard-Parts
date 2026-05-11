@@ -2,6 +2,14 @@
 
 A comprehensive multi-platform embedded systems and IoT project containing Android application, Python algorithms, and STM32 firmware.
 
+---
+
+## 🌐 Language / 语言
+
+**English** | [中文介绍](README_zh.md)
+
+---
+
 ## 📁 Project Structure
 
 ```
