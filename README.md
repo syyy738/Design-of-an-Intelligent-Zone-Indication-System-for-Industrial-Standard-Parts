@@ -161,7 +161,8 @@ If you intend to use this code commercially, please contact the author for licen
 ## 📧 Contact
 
 - **Author**: SunYang
-- **Project Link**: (To be added after GitHub upload)
+- **Email**: sunyang667@outlook.com
+- **Project Link**: https://github.com/syyy738/Design-of-an-Intelligent-Zone-Indication-System-for-Industrial-Standard-Parts
 
 ## 🙏 Acknowledgments
 

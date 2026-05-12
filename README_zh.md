@@ -164,7 +164,8 @@ python main.py
 ## 📧 联系方式
 
 - **作者**: SunYang
-- **项目链接**: (上传GitHub后添加)
+- **邮箱**: sunyang667@outlook.com
+- **项目链接**: https://github.com/syyy738/Design-of-an-Intelligent-Zone-Indication-System-for-Industrial-Standard-Parts
 
 ## 🙏 致谢
 
